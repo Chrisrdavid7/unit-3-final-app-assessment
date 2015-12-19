@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface C4QCatFactsTableViewController : UITableViewController
+@property (nonatomic) NSArray *catFacts;
 
 @end
